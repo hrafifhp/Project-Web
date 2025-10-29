@@ -1,0 +1,56 @@
+header {
+    background-image: url("https://img.pikbest.com/png-images/qiantu/mathematical-formula_2631368.png!w700wp");
+    text-align: center; 
+    padding: 3rem 1rem;
+    opacity: 0.8;
+}
+header h1 {
+    font-size: 3rem;
+    animation: 2s infinite alternate;
+    margin-bottom: 3rem;
+}
+body p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding: auto;
+    text-align: center;
+    opacity: 100;
+    font: 100;
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+}
+
+body h1 {
+    margin-top:100px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    color:aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: linear-gradient(to right, #141e30, #243b55);
+}
+
+nav {
+    text-align: center;
+    padding: 0.8rem;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: aqua;
+}
+
